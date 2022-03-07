@@ -9,7 +9,6 @@ module.exports = {
     // {
     //   resolve: "gatsby-source-drupal",
     //   options: {
-    //     baseUrl: "https://drupal.testebs.tk",
     //   },
     // },
     {
