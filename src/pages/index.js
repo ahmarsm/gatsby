@@ -67,19 +67,6 @@ export default function IndexPage() {
               </div>
             </div>
           </div>
-          <div className="item">
-            <div className="imgbx"><img className="img-fluid" src="./images/hero2.jpg" alt="img" /></div>
-            <div className="bannermain">
-              <div className="container">
-                <div className="bannertext">
-                  <h1 className="wow fadeInLeft"><span>Car Insurance</span> RSA research reveals travelling has now gone the social media way </h1>
-                  <div className="btnbx">
-                    <Link to="#/" className="btn">Get a quote</Link>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
         </Slider>
       </section>
       {/* <!--Slider End--> */}
